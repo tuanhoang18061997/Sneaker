@@ -1,0 +1,367 @@
+header {
+    height: 38px;
+}
+body
+{
+	background-color: black;
+	color: white;
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-weight: bold;
+	overflow-x: hidden;
+	font-size: 14px;
+}
+.container
+{
+	width: auto;
+	height: auto;
+	
+	
+}
+.phone
+{
+	width: 25%;
+	float: left;
+	padding-top: 9px;
+}
+.email
+{
+	float: left;
+	width: 25%;
+	padding-top: 9px;
+}
+.email a
+{
+	text-decoration: none;
+	color: gray;
+}
+.Contact
+{
+	
+	float: left ;
+	width: 45%;
+	text-align: center;
+	font-size: 15px;
+	padding-bottom: 15px;
+}
+.Contact p a
+{
+	text-decoration: none;
+	font-size: 25px;
+	margin-left: 10px;
+	background-color: purple;
+	color: white;
+}
+.logo_menu 
+{
+	width: auto;
+	margin-top: 20px;
+    height: 330px;
+    background-color: #504848;
+}
+.logo 
+{
+	float: left;
+    width: 25%;
+    margin-top: 10px;
+}
+.Menu
+{
+	float: left;
+}
+.Menu ul li
+{
+	text-decoration: none;
+	list-style: none;
+	float: left;
+	padding: 0px 50px 0px 50px;
+}
+.Menu ul li a
+{
+	color: white;
+	text-decoration: none;
+	font-size: 15px;
+	margin-left: 30px;
+}
+.Menu ul li a:hover
+{
+	color: #fff;
+	background-color: black;
+}
+.background img
+{
+	width: 720px;
+	height: 280px;
+	margin-left: 50px;
+
+}
+.background :hover
+{
+border-radius: 50px;
+}
+#main
+{
+	background-color: white;
+	width: auto;
+	height: auto;
+	font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
+	margin-top: 10px;
+}
+#main ul li
+{
+	list-style: none;
+	float: left;
+	padding: 10px 20px 10px 20px;
+	border-width: 1px;
+	border-style: groove;
+	border-color: gray;
+}
+.Item_Sport
+{
+	color: black;
+
+}
+#main .Product
+{
+	height: 700px;
+}
+
+.Product ul li a
+{
+	border-style: solid;
+	text-decoration: none;
+	border-color: white;
+	border-width: 1px;
+}
+#main .Product ul li{
+	border-style: solid;
+	border-color: white;
+	border-width: 1px;} 
+#main .Product ul li:hover{
+	border-style: solid;
+	border-color: gray;
+	border-width: 1px;} 
+#main i
+{
+
+	color: red;
+}
+#main a
+{
+	color: black;
+	font-size: 15px
+}
+#main a:hover
+{
+	background-color: blue;
+
+}
+.button-Xemthem 
+{
+
+	color: black;
+	width: 1200px;
+
+
+	text-align: center;
+
+}
+.button-Xemthem a
+{
+	margin-left: 5px;	
+	text-decoration: none;
+	background-color: yellow;
+	border:groove;
+	border-width: 2px;
+	border-radius: 8px;
+	transition: 0.5s;
+}
+#Youtube
+{
+	background-color: pink;
+	width: auto;
+	height: auto;
+
+	
+}
+.Name_border
+{
+	text-align: center;
+	border-radius: 10px;
+	border-style: groove;
+}
+.Link_Youtube
+{
+	margin-left: 30px;
+}
+#footer
+{
+	width: 1333px;
+	height: 350px;
+	background-color: #3f0b2a;
+	margin-top: 10px;
+	float: left;
+}
+.logo1
+{
+    width: 300px;
+    height: 300px;
+    padding-left: 20px;
+    padding-top: 30px;
+    float: left;
+}
+.information
+{
+	float: left;
+	width: 300px;
+    height: 300px;
+    padding-left: 20px;
+    padding-top: 10px;
+    font-weight: none;
+    color: cadetblue;
+}
+.information p
+{
+	font-size: 30px;
+}
+.Feedback
+{
+	text-align: center;
+    width: 300px;
+    height: 300px;
+    padding-left: 20px;
+    padding-top: 10px;
+    float: left;
+    color: cadetblue;
+}
+.Copy
+{	
+
+	text-align: center;
+}
+.hinh
+{
+	text-align: center;
+    width: 300px;
+    height: auto;
+     padding-left: 20px;
+    padding-top: 30px;
+    float: left;
+}
+.Pay
+{
+	width: 1333px;
+	border: solid;
+	background-color: #0e1401;
+	margin-top: 10px;
+	float: left;
+
+}
+#event_main
+{
+	background-color: white;
+	color:black;
+	float: left;
+	width: 1333px	
+
+} 
+.event_main_right 
+{
+	
+	float: left;
+	width: 666.5px;
+}
+.event_main_left 
+{
+	
+	float: left;
+	width: 666.5px;
+}
+.Event_picture  a
+{
+	text-align: left;
+	color: #27161680
+}
+.info
+{
+	float: right;
+	width: 400px;
+	border-left-style: solid;
+	height: 200px;
+	border-spacing: 10px;
+}
+#EVENT-DETAIL
+{
+	width: 1333px;
+	margin-top: 10px;
+	background-color: white;
+	max-height: auto;
+}
+.info-DETAIL
+{
+	text-align: center;
+	color: black;
+	font-size: 25px;
+}
+.Event_picture_related
+{
+	width: 630px;
+}
+.title_contact
+{
+
+	font-size: 20px;
+	font-weight: 300;
+	color: #fff;
+	border-radius: 3px;
+	background: #006327;
+	padding: 9px 15px 5px 15px;
+	white-space: nowrap;
+	width: 76px;
+margin-top: 10px;
+}
+#contact_main
+{
+	margin-left: 200px;
+	width: 974px;
+	height:888.5px;
+	margin-top: 10px;
+	background-color:#81fc62;
+}
+.contact_col1
+{
+	width: 311.667px;
+	height: 554px;
+	float: left;
+}
+.contact_col2
+{
+	float: left;
+	width: 311.667px;
+	height: 554px;
+	margin-left: 40px;
+}
+.contact_col3_title
+{
+	float: left;
+	width: 270.667px;
+	height: 554px;
+	margin-left: 40px;	
+}
+.contact_col3
+{
+	float: left;
+	width: 270.667px;
+	height: 554px;
+	margin-left: 40px;
+}
+.contact_col3 a
+{
+	width: 10px;
+}
+.contact_col3_logo:hover
+{
+	background-color: blue;
+	width: 70px;
+	border-radius: 20px;
+	color: white;
+}	
